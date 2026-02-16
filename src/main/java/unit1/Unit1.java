@@ -17,7 +17,7 @@ public class Unit1 {
   */
  public static int addIntegers(int a, int b) {
      // Your code here
-     return 0; // Placeholder return
+     return a + b; // Placeholder return
  }
 
  /**
