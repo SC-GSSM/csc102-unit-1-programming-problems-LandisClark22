@@ -24,7 +24,7 @@ public class Unit1 {
      */
     public static int castDoubleToInt(double value) {
         return (int) value;
-    }  
+    }
 
     /**
      * Method 3: Checks if a boolean expression is true.
